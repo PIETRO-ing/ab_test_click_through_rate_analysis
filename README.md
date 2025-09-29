@@ -42,6 +42,7 @@ The plot below illustrates the sampling distribution of the difference in CTR:
 - **Red dashed lines**: 95% confidence interval boundaries
 - The distribution clearly shows the effect is well above the practical significance threshold.
 
+![Click Distribution Con and Exp](click_distribution_control_and_experimental_group.png)
 ![Confidence Interval Plot](images/normal_distribution_plot.png)
 
 ---
