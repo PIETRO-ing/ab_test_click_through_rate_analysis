@@ -37,12 +37,13 @@ Since the **entire confidence interval lies above the MDE**, we conclude that th
 ## Visualization
 
 ![Click Distribution Con and Exp](plots/click_distribution_control_and_experimental_group.png)
-- This bar plots show the distribution of clicks of **Control** and **Experimental** Group.
+- This bar plots show the distribution of clicks of **Experimental** and **Control** Group.
 
 ![Click Rates with 95% CI](plots/click_rates_with_95_perc_ci.png)
 - This bar plot displays the observed **click-through rates (CTR)** for the Control and Experiment groups. Each bar shows the point estimate of the CTR, with **vertical error bars representing the 95% confidence interval**, illustrating the uncertainty around the estimated rates.
 
-
+![Difference in Click Rates with 95% Confidence Interval](plots/difference_in_click_rates_with_95_perc_ci.png)
+- This plot shows the **difference in CTR between the Experiment and Control groups, along with the 95% confidence interval for this difference.** The horizontal line at zero represents the null hypothesis of no difference. **If zero is not within the confidence interval, the difference is statistically significant at the 5% level.**
 
 ---
 
