@@ -61,5 +61,5 @@ The plot below illustrates the sampling distribution of the difference in CTR:
 1. Clone this repository
 2. Install dependencies (if needed):  
    ```bash
-   pip install numpy scipy mat
+   pip install numpy pandas matplotlib seaborn
 
