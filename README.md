@@ -48,7 +48,8 @@ Since the **entire confidence interval lies above the MDE**, we conclude that th
 ![Z-test: Null Distribution and Test Statistic](plots/z_test_null_distribution_and_test_statistic.png)
 - This plot visualizes the **standard normal distribution under the null hypothesis (no difference)**. The **red shaded areas indicate the rejection regions** for a two-tailed test at the **5% significance level.** The observed **z-score from the data is marked**, with the corresponding **p-value** displayed, helping to assess **statistical significance.**
 
-
+![95% Confidence Interval for Difference in Click-Through Rates](plots/95_perc_confidence_interval_for_difference_in_click_through_rates.png)
+- This plot shows the **estimated difference in click-through rates between the experiment and control groups with its 95% confidence interval.** The blue curve depicts the normal approximation of the difference’s sampling distribution. Red dashed lines mark the confidence interval bounds, and the green line indicates the observed difference. **This visualization highlights the uncertainty around the estimate and helps determine if the difference is statistically significant.**
 
 ---
 
