@@ -45,6 +45,10 @@ Since the **entire confidence interval lies above the MDE**, we conclude that th
 ![Difference in Click Rates with 95% Confidence Interval](plots/difference_in_click_rates_with_95_perc_ci.png)
 - This plot shows the **difference in CTR between the Experiment and Control groups, along with the 95% confidence interval for this difference.** The horizontal line at zero represents the null hypothesis of no difference. **If zero is not within the confidence interval, the difference is statistically significant at the 5% level.**
 
+![Z-test: Null Distribution and Test Statistic](plots/z_test_null_distribution_and_test_statistic.png)
+- This plot visualizes the **standard normal distribution under the null hypothesis (no difference)**. The **red shaded areas indicate the rejection regions** for a two-tailed test at the **5% significance level.** The observed **z-score from the data is marked**, with the corresponding **p-value** displayed, helping to assess **statistical significance.**
+
+
 ---
 
 ## Tools & Technologies
