@@ -51,8 +51,11 @@ The plot below illustrates the sampling distribution of the difference in CTR:
 
 - Python
 - Jupyter Notebook
-- NumPy, SciPy (statistical computations)
+- NumPy, 
+- Pandas
+- SciPy (statistical computations)
 - Matplotlib (visualizations)
+- Seaborn (visualizations)
 
 ---
 
