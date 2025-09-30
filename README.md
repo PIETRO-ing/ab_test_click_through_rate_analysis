@@ -36,14 +36,9 @@ Since the **entire confidence interval lies above the MDE**, we conclude that th
 
 ## Visualization
 
-The plot below illustrates the sampling distribution of the difference in CTR:
-
-- **Green line**: Observed difference between groups
-- **Red dashed lines**: 95% confidence interval boundaries
-- The distribution clearly shows the effect is well above the practical significance threshold.
-
-![Click Distribution Con and Exp](click_distribution_control_and_experimental_group.png)
-![Confidence Interval Plot](images/normal_distribution_plot.png)
+![Click Distribution Con and Exp](plots/click_distribution_control_and_experimental_group.png)
+![Click Rates with 95% CI](plots/click_rates_with_95_perc_ci.png)
+- This bar plot displays the observed **click-through rates (CTR)** for the Control and Experiment groups. Each bar shows the point estimate of the CTR, with **vertical error bars representing the 95% confidence interval**, illustrating the uncertainty around the estimated rates.
 
 ---
 
