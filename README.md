@@ -49,6 +49,7 @@ Since the **entire confidence interval lies above the MDE**, we conclude that th
 - This plot visualizes the **standard normal distribution under the null hypothesis (no difference)**. The **red shaded areas indicate the rejection regions** for a two-tailed test at the **5% significance level.** The observed **z-score from the data is marked**, with the corresponding **p-value** displayed, helping to assess **statistical significance.**
 
 
+
 ---
 
 ## Tools & Technologies
